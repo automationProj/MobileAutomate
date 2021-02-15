@@ -1,0 +1,14 @@
+{
+	"mobileUrl": "http://0.0.0.0:4723/wd/hub",
+	"PlatformName":"Android",
+	"PlatformVersion": "9",
+	"DeviceName": "SM-G985F",
+	"UDID": "R58N30TXVVH",
+	"NewCommandTimeout": "182",
+	"AppPackage": "com.wt.apkinfo",
+	"AppActivity1": "com.wt.apkinfo.activities.StartActivity",
+	
+
+
+
+}
