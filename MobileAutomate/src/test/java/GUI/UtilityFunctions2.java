@@ -61,14 +61,7 @@ public class UtilityFunctions2 {
 	}
 	
 	
-	/*****************************************************************************
-	Function Name: 	ClickObject
-	Description:	click an object in an application using either xpath, ID, Name, linktext and CssSelector and maximum wait time
-	Date Created:	13/09/2017
-	 * @throws ParserConfigurationException 
-	 * @throws IOException 
-	 * @throws SAXException 
-	******************************************************************************/	
+	
     public void ClickObject(WebDriver driver, String property, String path) throws SAXException, IOException, ParserConfigurationException
 	{
     	//get object properties from the xml file repository
